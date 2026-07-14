@@ -1,10 +1,10 @@
 {
     "serverstatus":"true",
     "noticemode":"true",
-    "dataclearmode":"true",
+    "dataclearmode":"false",
     "servermeassage":"Api Key Has Been Banned By Owner",
     "opentime":"update will be received with in 24Hours",
     "libs":"https://github.com/vnhaxloader0-cell/OnlineBp/raw/refs/heads/main/bgmi.zip",
-    "notice_title":"Ban Blocked Successfully v1",
+    "notice_title":"Join Tg channel @Ban Blocker",
     "notice_body":""
 }
